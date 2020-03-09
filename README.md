@@ -14,4 +14,4 @@ A repository of various resources I've accumulated during my time studying.
 - [SF Data Science ReadMe](https://github.com/sfbrigade/data-science-wg/blob/master/dswg_project_resources/Project-README-template.md) - ReadMe Made for reference for other data science program, but which has fantastic structure for use.
 
 ## Licensing Resources:
-- [ChooseALicense](https://choosealicense.com/)
+- [ChooseALicense](https://choosealicense.com/) - Helpful with choosing licenses for personal and group projects.
