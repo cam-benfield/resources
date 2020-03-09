@@ -1,6 +1,10 @@
 # Resources
 A repository of various resources I've accumulated during my time studying.
 
+## Language Resources:
+- [Python](https://www.python.org/) - Official Python Documentation
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings) - Official Style Guide of Google for Python
+
 ## Package Resources:
 - [SQLAlchemy](https://docs.sqlalchemy.org/en/13/)
 - [Pandas](https://pandas.pydata.org/) - Python module with data processing capabilities.
