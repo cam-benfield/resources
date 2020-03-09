@@ -3,8 +3,8 @@ A repository of various resources I've accumulated during my time studying.
 
 ## Package Resources:
 - [SQLAlchemy](https://docs.sqlalchemy.org/en/13/)
-- [Pandas](https://pandas.pydata.org/)
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
+- [Pandas](https://pandas.pydata.org/) - Python module with data processing capabilities.
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - HTML Parser for Python
 
 ## Markdown Resources:
 - [Markdown Guide](https://www.markdownguide.org/) - A helpful site full of links to alternate resources for markdown and readmes.
