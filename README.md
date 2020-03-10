@@ -10,6 +10,9 @@ A repository of various resources I've accumulated during my time studying.
 - [Pandas](https://pandas.pydata.org/) - Python module with data processing capabilities.
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - HTML Parser for Python
 
+## Database Resources:
+- [DB Browser for SQLite](https://sqlitebrowser.org/) - Lightweight GUI-based browser for SQLite.
+
 ## Markdown Resources:
 - [Markdown Guide](https://www.markdownguide.org/) - A helpful site full of links to alternate resources for markdown and readmes.
 - [dillinger](dillinger.io) - A neat little web-based editor. It's helping me to get a better idea of what my readme is going to look like in the end.
