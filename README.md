@@ -28,3 +28,6 @@ A repository of various resources I've accumulated during my time studying.
 
 ## Licensing Resources:
 - [ChooseALicense](https://choosealicense.com/) - Helpful with choosing licenses for personal and group projects.
+
+# Community resources
+- [PyData](https://pydata.org/) - Community ran by NumFocus, has local offices (Charlotte, Atlanta, NYC, LA, etc.) and also hosts conventions regularly.
