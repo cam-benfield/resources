@@ -12,6 +12,7 @@ A repository of various resources I've accumulated during my time studying.
 - [SQLAlchemy](https://docs.sqlalchemy.org/en/13/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - HTML Parser for Python
 - [Numpy](https://numpy.org/) - Python module for scientific computing
+- [iSort](https://github.com/timothycrosley/isort/wiki/isort-Plugins) - Sorts Imports to be more readable
 
 ## Visualization Resources:
  - [Seaborn](https://seaborn.pydata.org/index.html) - Seaborn Documentation and resources
