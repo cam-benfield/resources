@@ -20,6 +20,9 @@ A repository of various resources I've accumulated during my time studying.
 ## Database Resources:
 - [DB Browser for SQLite](https://sqlitebrowser.org/) - Lightweight GUI-based browser for SQLite.
 
+## Testing Resources:
+- [PyTest Documetation](https://docs.pytest.org/) - Documentation for pytest basic testing
+
 ## Markdown Resources:
 - [Markdown Guide](https://www.markdownguide.org/) - A helpful site full of links to alternate resources for markdown and readmes.
 - [dillinger](dillinger.io) - A neat little web-based editor. It's helping me to get a better idea of what my readme is going to look like in the end.
