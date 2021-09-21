@@ -1,6 +1,6 @@
 # Resources
 
-A repository of various resources I've accumulated during my time studying.
+A repository of various resources accumulated during my time studying.
 
 ## Markdown Resources
 
